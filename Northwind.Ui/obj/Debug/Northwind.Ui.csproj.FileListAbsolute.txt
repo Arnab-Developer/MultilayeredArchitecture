@@ -1,0 +1,26 @@
+D:\Projects\Northwind\Northwind.Ui\bin\Northwind.Ui.dll
+D:\Projects\Northwind\Northwind.Ui\bin\Northwind.Ui.pdb
+D:\Projects\Northwind\Northwind.Ui\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Northwind\Northwind.Ui\obj\Debug\Northwind.Ui.dll
+D:\Projects\Northwind\Northwind.Ui\obj\Debug\Northwind.Ui.pdb
+D:\Projects\Northwind\Northwind.Ui\bin\Northwind.Bll.dll
+D:\Projects\Northwind\Northwind.Ui\bin\Northwind.Bll.pdb
+D:\Projects\Northwind\Northwind.Ui\bin\Northwind.Dal.dll
+D:\Projects\Northwind\Northwind.Ui\bin\Northwind.Poco.dll
+D:\Projects\Northwind\Northwind.Ui\bin\Northwind.Dal.pdb
+D:\Projects\Northwind\Northwind.Ui\bin\Northwind.Poco.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Ui\bin\Northwind.Ui.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Ui\bin\Northwind.Ui.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Ui\bin\Northwind.Bll.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Ui\bin\Northwind.Poco.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Ui\bin\Northwind.Dal.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Ui\bin\Northwind.Dal.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Ui\bin\Northwind.Bll.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Ui\bin\Northwind.Poco.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Ui\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Ui\obj\Debug\Northwind.Ui.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Ui\obj\Debug\Northwind.Ui.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Ui\bin\Northwind.Dal.xml
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Ui\bin\Northwind.Bll.xml
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Ui\bin\Northwind.Poco.xml
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Ui\bin\Northwind.Ui.XML

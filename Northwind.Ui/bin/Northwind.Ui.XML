@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Northwind.Ui</name>
+    </assembly>
+    <members>
+        <member name="T:Northwind.Ui.Site">
+            <summary>
+            This UI logic of master page class.
+            </summary>
+        </member>
+        <member name="M:Northwind.Ui.Site.Page_Load(System.Object,System.EventArgs)">
+            <summary>
+            Handles the Load event of Page control.
+            </summary>
+            <param name="sender">The sender object.</param>
+            <param name="e">The EventArgs object.</param>
+        </member>
+        <member name="F:Northwind.Ui.Site.head">
+            <summary>
+            head control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:Northwind.Ui.Site.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:Northwind.Ui.Site.ContentPlaceHolder1">
+            <summary>
+            ContentPlaceHolder1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="T:Northwind.Ui.Customer">
+            <summary>
+            Ui logic of customer.
+            </summary>
+        </member>
+        <member name="T:Northwind.Ui.Code.BasePage">
+            <summary>
+            Base class of all aspx page in this project.
+            </summary>
+        </member>
+        <member name="F:Northwind.Ui.Customer.grvCustomers">
+            <summary>
+            grvCustomers control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="M:Northwind.Ui.Customer.Page_Load(System.Object,System.EventArgs)">
+            <summary>
+            Handles the Load event of Page.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The EventArgs.</param>
+        </member>
+        <member name="T:Northwind.Ui.Default">
+            <summary>
+            This file containing the UI Logic of Default class. 
+            </summary>
+        </member>
+        <member name="M:Northwind.Ui.Default.Page_Load(System.Object,System.EventArgs)">
+            <summary>
+            Handles the Load event of Page control.
+            </summary>
+            <param name="sender">The sender object.</param>
+            <param name="e">The EventArgs object.</param>
+        </member>
+        <member name="T:Northwind.Ui.ManageCustomer">
+            <summary>
+            UI logic of manage customer class. It is doing 
+            create, update and delete operations on customer data.
+            </summary>
+        </member>
+        <member name="M:Northwind.Ui.ManageCustomer.Page_Load(System.Object,System.EventArgs)">
+            <summary>
+            Handles the Load event of Page.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The EventArgs.</param>
+        </member>
+        <member name="M:Northwind.Ui.ManageCustomer.dtlvCustomer_ModeChanging(System.Object,System.Web.UI.WebControls.DetailsViewModeEventArgs)">
+            <summary>
+            Handles the ModeChanging event of dtlvCustomer.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The DetailsViewModeEventArgs.</param>
+        </member>
+        <member name="M:Northwind.Ui.ManageCustomer.dtlvCustomer_ItemInserting(System.Object,System.Web.UI.WebControls.DetailsViewInsertEventArgs)">
+            <summary>
+            Handles the ItemInserting event of dtlvCustomer.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The DetailsViewInsertEventArgs.</param>
+        </member>
+        <member name="M:Northwind.Ui.ManageCustomer.dtlvCustomer_ItemUpdating(System.Object,System.Web.UI.WebControls.DetailsViewUpdateEventArgs)">
+            <summary>
+            Handles the ItemUpdating event of dtlvCustomer.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The DetailsViewUpdateEventArgs.</param>
+        </member>
+        <member name="M:Northwind.Ui.ManageCustomer.dtlvCustomer_ItemDeleting(System.Object,System.Web.UI.WebControls.DetailsViewDeleteEventArgs)">
+            <summary>
+            Handles the ItemDeleting event of dtlvCustomer.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The DetailsViewDeleteEventArgs.</param>
+        </member>
+        <member name="F:Northwind.Ui.ManageCustomer.ValidationSummary1">
+            <summary>
+            ValidationSummary1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:Northwind.Ui.ManageCustomer.dtlvCustomer">
+            <summary>
+            dtlvCustomer control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+    </members>
+</doc>

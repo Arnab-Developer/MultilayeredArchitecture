@@ -1,0 +1,10 @@
+D:\Projects\Northwind\Northwind.Poco\bin\Debug\Northwind.Poco.dll
+D:\Projects\Northwind\Northwind.Poco\bin\Debug\Northwind.Poco.pdb
+D:\Projects\Northwind\Northwind.Poco\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Northwind\Northwind.Poco\obj\Debug\Northwind.Poco.dll
+D:\Projects\Northwind\Northwind.Poco\obj\Debug\Northwind.Poco.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Poco\bin\Debug\Northwind.Poco.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Poco\bin\Debug\Northwind.Poco.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Poco\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Poco\obj\Debug\Northwind.Poco.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Poco\obj\Debug\Northwind.Poco.pdb

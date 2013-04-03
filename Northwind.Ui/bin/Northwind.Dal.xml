@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Northwind.Dal</name>
+    </assembly>
+    <members>
+        <member name="T:Northwind.Dal.Customer">
+            <summary>
+            Data Access Layer of customer.
+            </summary>
+        </member>
+        <member name="T:Northwind.Dal.ICustomer">
+            <summary>
+            Service contract of customer DAL.
+            </summary>
+        </member>
+        <member name="M:Northwind.Dal.ICustomer.GetData">
+            <summary>
+            GetData all customer data.
+            </summary>
+            <returns>The customer collection.</returns>
+            <exception cref="T:System.InvalidCastException">
+            The specified cast is not valid.
+            </exception>
+            <exception cref="T:System.IndexOutOfRangeException">
+            The index is out of range.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The object is disposed.
+            </exception>
+        </member>
+        <member name="M:Northwind.Dal.ICustomer.GetData(System.String)">
+            <summary>
+            GetData customer data by customer id.
+            </summary>
+            <param name="customerId">The customer id.</param>
+            <returns>The customer collection.</returns>
+            <exception cref="T:System.InvalidCastException">
+            The specified cast is not valid.
+            </exception>
+            <exception cref="T:System.IndexOutOfRangeException">
+            The index is out of range.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The object is disposed.
+            </exception>
+        </member>
+        <member name="M:Northwind.Dal.ICustomer.Create(Northwind.Poco.ICustomer)">
+            <summary>
+            Creates a new customer record.
+            </summary>
+            <param name="newCustomer">The customer intence.</param>
+            <returns>The number of effected records.</returns>
+            <exception cref="T:System.Data.SqlClient.SqlException">
+            An exception occurred while executing the command against a locked row. This exception is 
+            not generated when you are using Microsoft .NET Framework version 1.0.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The object is disposed.
+            </exception>
+        </member>
+        <member name="M:Northwind.Dal.ICustomer.Update(Northwind.Poco.ICustomer)">
+            <summary>
+            Update an existing customer record.
+            </summary>
+            <param name="existingCustomer">The existing customer instence.</param>
+            <returns>The number of effected records.</returns>
+            <exception cref="T:System.Data.SqlClient.SqlException">
+            An exception occurred while executing the command against a locked row. This exception is 
+            not generated when you are using Microsoft .NET Framework version 1.0.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The object is disposed.
+            </exception>
+        </member>
+        <member name="M:Northwind.Dal.ICustomer.Delete(System.String)">
+            <summary>
+            Delete a customer record.
+            </summary>
+            <param name="customerId">The customer id.</param>
+            <returns>The number of effected records.</returns>
+            <exception cref="T:System.Data.SqlClient.SqlException">
+            An exception occurred while executing the command against a locked row. This exception is 
+            not generated when you are using Microsoft .NET Framework version 1.0.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The object is disposed.
+            </exception>
+        </member>
+        <member name="M:Northwind.Dal.Customer.#ctor">
+            <summary>
+            Creates an instence of customer. This is a 
+            parameterised constructor.
+            </summary>
+        </member>
+        <member name="M:Northwind.Dal.Customer.CleanUp">
+            <summary>
+            Cleans up the unmanaged recources. Derive class can override this method to implement 
+            specific logic.
+            </summary>
+        </member>
+        <member name="M:Northwind.Dal.Customer.GetData">
+            <summary>
+            GetData all customer data.
+            </summary>
+            <returns>The customer collection.</returns>
+            <exception cref="T:System.InvalidCastException">
+            The specified cast is not valid.
+            </exception>
+            <exception cref="T:System.IndexOutOfRangeException">
+            The index is out of range.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The object is disposed.
+            </exception>
+        </member>
+        <member name="M:Northwind.Dal.Customer.GetData(System.String)">
+            <summary>
+            GetData customer data by customer id.
+            </summary>
+            <param name="customerId">The customer id.</param>
+            <returns>The customer collection.</returns>
+            <exception cref="T:System.InvalidCastException">
+            The specified cast is not valid.
+            </exception>
+            <exception cref="T:System.IndexOutOfRangeException">
+            The index is out of range.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The object is disposed.
+            </exception>
+        </member>
+        <member name="M:Northwind.Dal.Customer.Create(Northwind.Poco.ICustomer)">
+            <summary>
+            Creates a new customer record.
+            </summary>
+            <param name="newCustomer">The customer intence.</param>
+            <returns>The number of effected records.</returns>
+            <exception cref="T:System.Data.SqlClient.SqlException">
+            An exception occurred while executing the command against  a locked row. This exception is 
+            not generated when you are using Microsoft .NET Framework version 1.0.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The object is disposed.
+            </exception>
+        </member>
+        <member name="M:Northwind.Dal.Customer.Update(Northwind.Poco.ICustomer)">
+            <summary>
+            Update an existing customer record.
+            </summary>
+            <param name="existingCustomer">The existing customer instence.</param>
+            <returns>The number of effected records.</returns>
+            <exception cref="T:System.Data.SqlClient.SqlException">
+            An exception occurred while executing the command against a locked row. This exception is
+            not generated when you are using Microsoft .NET Framework version 1.0.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The object is disposed.
+            </exception>
+        </member>
+        <member name="M:Northwind.Dal.Customer.Delete(System.String)">
+            <summary>
+            Delete a customer record.
+            </summary>
+            <param name="customerId">The customer id.</param>
+            <returns>The number of effected records.</returns>
+            <exception cref="T:System.Data.SqlClient.SqlException">
+            An exception occurred while executing the command against a locked row. This exception is 
+            not generated when you are using Microsoft .NET Framework version 1.0.
+            </exception>
+            <exception cref="T:System.ObjectDisposedException">
+            The object is disposed.
+            </exception>
+        </member>
+        <member name="M:Northwind.Dal.Customer.Dispose">
+            <summary>
+            Dispose the instence.
+            </summary>
+        </member>
+        <member name="P:Northwind.Dal.Customer.IsDisposed">
+            <summary>
+            Gets the state of the object weather it is disposed or not.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,10 @@
+﻿<%--
+-------------------------------------------------------------+
+File Name: MultilineTextBox.skin
+Description: This file containing the multiline text box skin.
+Developed By: Arnab Roy Chowdhury.
+Date: 29th February 2012.
+-------------------------------------------------------------+
+--%>
+
+<asp:TextBox SkinID="MultilineTextBox" runat="server" height="100px" width="500px" />

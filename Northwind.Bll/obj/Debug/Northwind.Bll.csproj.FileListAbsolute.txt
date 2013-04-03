@@ -1,0 +1,21 @@
+D:\Projects\Northwind\Northwind.Bll\bin\Debug\Northwind.Bll.dll
+D:\Projects\Northwind\Northwind.Bll\bin\Debug\Northwind.Bll.pdb
+D:\Projects\Northwind\Northwind.Bll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.dll
+D:\Projects\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.pdb
+D:\Projects\Northwind\Northwind.Bll\bin\Debug\Northwind.Dal.dll
+D:\Projects\Northwind\Northwind.Bll\bin\Debug\Northwind.Dal.pdb
+D:\Projects\Northwind\Northwind.Bll\bin\Debug\Northwind.Poco.dll
+D:\Projects\Northwind\Northwind.Bll\bin\Debug\Northwind.Poco.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Bll\bin\Debug\Northwind.Bll.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Bll\bin\Debug\Northwind.Bll.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Bll\bin\Debug\Northwind.Dal.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Bll\bin\Debug\Northwind.Poco.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Bll\bin\Debug\Northwind.Dal.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Bll\bin\Debug\Northwind.Poco.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Bll\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Bll\obj\Debug\Northwind.Bll.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Bll\bin\Debug\Northwind.Dal.xml
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Bll\bin\Debug\Northwind.Poco.xml
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\Northwind\Northwind.Bll\bin\Debug\Northwind.Bll.XML

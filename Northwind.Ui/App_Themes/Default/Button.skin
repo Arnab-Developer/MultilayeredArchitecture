@@ -1,0 +1,10 @@
+﻿<%--
+-------------------------------------------------+
+File Name: Button.skin
+Description: This file containing the button skin.
+Developed By: Arnab Roy Chowdhury.
+Date: 29th February 2012.
+-------------------------------------------------+
+--%>
+
+<asp:Button runat="server" BackColor="#336699" ForeColor="White" />

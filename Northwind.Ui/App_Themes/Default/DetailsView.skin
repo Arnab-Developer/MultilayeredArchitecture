@@ -1,0 +1,20 @@
+﻿<%--
+-------------------------------------------------------+
+File Name: DetailsView.skin
+Description: This file containing the details view skin.
+Developed By: Arnab Roy Chowdhury.
+Date: 29th February 2012.
+-------------------------------------------------------+
+--%>
+
+<asp:DetailsView runat="server" CellPadding="4" ForeColor="#333333" GridLines="None" width="100%" 
+    AutoGenerateRows="false">
+    <FooterStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
+    <CommandRowStyle BackColor="#E2DED6" Font-Bold="True" />
+    <RowStyle BackColor="#F7F6F3" ForeColor="#333333" />
+    <FieldHeaderStyle BackColor="#E9ECF1" Font-Bold="True" />
+    <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Center" />
+    <HeaderStyle BackColor="#5D7B9D" Font-Bold="True" ForeColor="White" />
+    <AlternatingRowStyle BackColor="White" ForeColor="#284775" />
+    <FieldHeaderStyle Width="20%" />
+</asp:DetailsView>

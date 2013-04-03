@@ -1,0 +1,10 @@
+﻿<%--
+---------------------------------------------------+
+File Name: TextBox.skin
+Description: This file containing the text box skin.
+Developed By: Arnab Roy Chowdhury.
+Date: 29th February 2012.
+---------------------------------------------------+
+--%>
+
+<asp:TextBox runat="server" width="300px" />
