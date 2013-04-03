@@ -1,9 +1,9 @@
 ﻿// ------------------------------------------------------------------------------------------+
-// File Name: ICustomer.cs
-// Description: This file containing the service contract interface of Business Logic Layer of 
-//              Customers class.
+// File Name:    ICustomer.cs
+// Description:  This file containing the service contract interface of Business Logic Layer of 
+//               Customers class.
 // Developed By: Arnab Roy Chowdhury.
-// Date: 26th February 2012.
+// Date:         26th February 2012.
 // ------------------------------------------------------------------------------------------+
 
 using System;
