@@ -1,5 +1,5 @@
-MultilayeredArchitecture
-========================
+Multilayered Architecture
+=========================
 
 A sample to show how multilayered architecture can be implemented in software development.
 
