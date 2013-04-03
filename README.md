@@ -7,9 +7,9 @@ Multilayered application is a particular type of software designing procedure in
 In multilayered application we generally use three layers.
  
 
-•Data Access Layer (DAL) 
-•Business Logic Layer (BLL) 
-•User Interface Layer (UI) 
+1. Data Access Layer (DAL) 
+2. Business Logic Layer (BLL) 
+3. User Interface Layer (UI) 
 
 
 This can be sub divided in more layers depending on your application requirements. We write code for data access 
