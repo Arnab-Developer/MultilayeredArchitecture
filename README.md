@@ -1,16 +1,13 @@
-Multilayered Architecture
-=========================
+# Multilayered Architecture
 
 A sample to show how multilayered architecture can be implemented in software development.
 
 Multilayered application is a particular type of software designing procedure in software engineering. 
 In multilayered application we generally use three layers.
- 
 
 1. Data Access Layer (DAL) 
 2. Business Logic Layer (BLL) 
 3. User Interface Layer (UI) 
-
 
 This can be sub divided in more layers depending on your application requirements. We write code for data access 
 in DAL. Business logic for our application in BLL and user interface in UI. The advantage is that if there is a 
@@ -22,4 +19,3 @@ will actually use the service contract (the interface) not the actual implementa
 interface which is in the definition: Interface is a service contract between service provider and service consumer. 
 The service consumer does not need to know about the implementation details. They will only dealing with the service 
 contract which is defined in the interface.
- 
